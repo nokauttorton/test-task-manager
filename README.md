@@ -1,4 +1,5 @@
 # employees_tasks
+look on mokups (https://www.figma.com/file/mCi7XMN2MKwwgvnDUk7O1V/Awesome-Tasks?node-id=0%3A1)
 
 ## Project setup
 ```
